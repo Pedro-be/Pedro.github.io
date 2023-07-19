@@ -1,0 +1,60 @@
+body {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.Seccion1 {
+  background-image: url(/imagen/fondo.png);
+  background-repeat: no-repeat;
+  background-size: 1000px;
+}
+
+.texto {
+  margin: 30px;
+  padding: 50px;
+}
+
+.Titulo {
+  margin: 40px;
+  padding: 30px;
+}
+
+.texto1 {
+  color: black;
+}
+
+.imagen {
+  height: 200px;
+}
+
+.imagen1 {
+  height: 200px;
+}
+
+.Seccion2 {
+  background-image: url(/imagen/fondo2.png);
+  background-repeat: no-repeat;
+  background-size: 1000px;
+}
+
+.Seccion3 {
+  background-image: url(/imagen/fondo1.png);
+  background-repeat: no-repeat;
+  background-size: 1000px;
+}
+
+.imagen2 {
+  width: 370px;
+}
+
+footer {
+  color: white;
+  background: black;
+  padding: 1.5em;
+  border-radius: 10px;
+}
+
+.imagen3 {
+  height: 50px;
+  margin: 20px;
+}
