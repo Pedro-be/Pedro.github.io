@@ -4,7 +4,7 @@ body {
 }
 
 .Seccion1 {
-  background-image: url(/imagen/fondo.png);
+  background-image: url(fondo.png);
   background-repeat: no-repeat;
   background-size: 1000px;
 }
@@ -32,13 +32,13 @@ body {
 }
 
 .Seccion2 {
-  background-image: url(/imagen/fondo2.png);
+  background-image: url(fondo2.png);
   background-repeat: no-repeat;
   background-size: 1000px;
 }
 
 .Seccion3 {
-  background-image: url(/imagen/fondo1.png);
+  background-image: url(fondo1.png);
   background-repeat: no-repeat;
   background-size: 1000px;
 }
